@@ -1,6 +1,6 @@
 # Weather forecast
 
-Displays today's weather in a window
+Displays 4-day weather forecast in a window
 
 This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.github.io/docs) framework 
 
