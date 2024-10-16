@@ -1,0 +1,2 @@
+
+Affiche les prévisions météorologiques à 4 jours dans une fenêtre
